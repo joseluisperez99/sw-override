@@ -1,0 +1,1314 @@
+[
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-417428341",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.730b37bc-d31c-4fd5-bb05-84002c8d4642",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-517640549",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.b9de83ac-2a63-463b-9f4f-9bbfed49b478",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-815435736",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.231cc357-e9d3-4787-9740-4f2225a53119",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-036988330",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.36683182-9fc9-40f5-9939-b9db42f34624",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-787471207",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.350a15c7-f8fd-430d-a7b3-ef7ddd454bab",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-551026343",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.d4eec641-03aa-4820-8e4b-133a2b16a22b",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-903869297",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.9915af5f-f1b0-452b-9e18-35388e6d05f2",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-503837288",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.88668042-7622-49f5-a960-402d5d5848d4",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-701492174",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.c81a03b4-7626-4b6f-8486-6f95b6f3a18b",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-421707000",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.a2d1fe4e-a3ea-4574-921a-d606ab286b1c",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-242435278",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.ec3ae48c-ecf3-4dd4-9732-b71a2d7d9628",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-806238322",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.d44b7130-604f-4fc7-b06a-1b63a263ff77",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-839144809",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.ba35a987-3917-4b4e-bd5f-a06c396e0b37",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-087145397",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.650baff1-3501-45e3-bd04-a12021fb805a",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-778706771",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.730d11fd-e243-4ea1-afa1-33f8f5b37aee",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-338785030",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.9075ed57-614b-4815-969f-9da1faa1f875",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-592449084",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.aa0add77-b193-428a-8ce4-fa5d1e02140d",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-131764267",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.1a84e370-b23d-4c95-b95e-9a64dc31054a",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-653800149",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.cb53cf94-6fd7-4045-b8af-39077d2ef65a",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-918717574",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.7da573b2-074a-471b-b75c-c9e148a871b7",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-272920998",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.3089444b-05a3-4d48-aba0-f24a2e03ff74",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-602770130",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.c7c967e2-b1b8-451e-9734-608ec5b1a2d5",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti!",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "BPU-129359029",
+                "journeyVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                "journeyVersionInstanceID": "unitary_ae2b17d7-c715-4132-bbb3-ff9f0ceb12d4",
+                "journeyActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "messageID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0",
+                "messageType": "marketing",
+                "campaignID": "322ca029-2858-4821-ae2d-057ff4023817_fe4bb951-a6d9-4940-927d-23f8bcb37a8d",
+                "campaignActionID": "d1d892cc-740d-4e94-97ea-2438ce28130d",
+                "batchInstanceID": "batch_322ca029-2858-4821-ae2d-057ff4023817.047daa83-61a5-4147-947a-696d35714026",
+                "parentSourceMeta": {
+                  "sourceID": "1ab26406-116e-47de-99ff-0a70907daaa1",
+                  "sourceType": "journey",
+                  "sourceVersionID": "322ca029-2858-4821-ae2d-057ff4023817",
+                  "sourceActionID": "fe4bb951-a6d9-4940-927d-23f8bcb37a8d"
+                }
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "17fe75c9-7c88-4708-88fc-5de7dd0da0b1-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "web": {
+      "title": "¡Tenemos una oferta para ti! Campaign",
+      "body": "Jose, solicita tu prestamo personal y participa por increibles premios",
+      "media": "https://delivery-p187030-e1959235.adobeaemcloud.com/adobe/assets/urn:aaid:aem:64012564-d3d4-46ab-af25-c329a0f2a4b8/as/CEF-PDH-V2.avif?width=1024&amp;quality=65&amp;assetName=CEF-PDH-V2.png",
+      "interaction": {
+        "type": "DEEPLINK",
+        "uri": null
+      },
+      "actions": {
+        "buttons": [
+          {
+            "label": "Simular ahora",
+            "type": "WEBURL",
+            "uri": "https://www.dineroalinstante.viabcp.com/"
+          }
+        ]
+      },
+      "priority": "HIGH",
+      "_xdm": {
+        "mixins": {
+          "_experience": {
+            "customerJourneyManagement": {
+              "messageExecution": {
+                "messageExecutionID": "CPU-321476888",
+                "messageID": "c5a68598-e521-4ffe-b3b3-570a0507b1fa-0",
+                "messageType": "marketing",
+                "campaignID": "738ebfcd-a13f-4096-b6eb-b480600a5d8d",
+                "campaignVersionID": "f78dc555-44aa-43c6-9627-8dd60ce18875",
+                "campaignActionID": "4f81e91b-3a96-4a6b-a564-0227785f98a2",
+                "batchInstanceID": "a97660c24c7308cbb8a1d8474f3cc086"
+              }
+            },
+            "decisioning": {
+              "propositions": [
+                {
+                  "scopeDetails": {
+                    "correlationID": "c5a68598-e521-4ffe-b3b3-570a0507b1fa-0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+]
